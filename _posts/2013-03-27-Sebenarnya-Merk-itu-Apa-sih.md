@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Post and Feature Image
+title: Sebenarnya Merk itu Apa, sih?
 category: opini
 tags: [branding, design, society]
 image:
-  feature: "https://farm8.staticflickr.com/7014/6840341477_e49612bc59_o_d.jpg"
+  feature: "https://farm9.staticflickr.com/8766/18054065159_5e474d1a1f_h.jpg"
 ---
 
 Merk adalah sebuah unsur yang mengisi hampir sekian persen aspek kehidupan masyarakat dewasa ini. Metonomia kerapkali dilantunkan demi mendapatkan manfaat emosional dari suatu produk komersil. Merk yang diposisikan dengan sangat amat baik memiliki reputasi, dan konsumen secara tidak langsung juga terbawa arus reputasi yang senada.
