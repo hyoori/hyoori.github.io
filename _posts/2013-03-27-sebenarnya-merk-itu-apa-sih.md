@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sebenarnya Merk itu Apa, sih?
+description: none
 category: opini
 tags: [branding, design, society]
 image:
